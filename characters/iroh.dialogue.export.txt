@@ -1,0 +1,540 @@
+I want a jquery bot that async isits all of the a links with href listed in li with class "category-page__member on the following page:
+
+"<div class="category-page__members">
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	A				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Appa%27s_Lost_Days" class="category-page__member-link" title="Transcript:Appa's Lost Days">Transcript:Appa's Lost Days</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Avatar_and_the_Fire_Lord_(commentary)" class="category-page__member-link" title="Transcript:The Avatar and the Fire Lord (commentary)">Transcript:The Avatar and the Fire Lord (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Avatar_and_the_Fire_Lord" class="category-page__member-link" title="Transcript:The Avatar and the Fire Lord">Transcript:The Avatar and the Fire Lord</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Avatar_Day" class="category-page__member-link" title="Transcript:Avatar Day">Transcript:Avatar Day</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Avatar_Returns" class="category-page__member-link" title="Transcript:The Avatar Returns">Transcript:The Avatar Returns</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Avatar_State" class="category-page__member-link" title="Transcript:The Avatar State">Transcript:The Avatar State</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Awakening" class="category-page__member-link" title="Transcript:The Awakening">Transcript:The Awakening</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	B				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Bato_of_the_Water_Tribe" class="category-page__member-link" title="Transcript:Bato of the Water Tribe">Transcript:Bato of the Water Tribe</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Beach_(commentary)" class="category-page__member-link" title="Transcript:The Beach (commentary)">Transcript:The Beach (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Beach" class="category-page__member-link" title="Transcript:The Beach">Transcript:The Beach</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Bending_Battle" class="category-page__member-link" title="Transcript:Bending Battle">Transcript:Bending Battle</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Bitter_Work" class="category-page__member-link" title="Transcript:Bitter Work">Transcript:Bitter Work</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Blind_Bandit_(commentary)" class="category-page__member-link" title="Transcript:The Blind Bandit (commentary)">Transcript:The Blind Bandit (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Blind_Bandit" class="category-page__member-link" title="Transcript:The Blind Bandit">Transcript:The Blind Bandit</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Blue_Spirit" class="category-page__member-link" title="Transcript:The Blue Spirit">Transcript:The Blue Spirit</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Boiling_Rock,_Part_1" class="category-page__member-link" title="Transcript:The Boiling Rock, Part 1">Transcript:The Boiling Rock, Part 1</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Boiling_Rock,_Part_2" class="category-page__member-link" title="Transcript:The Boiling Rock, Part 2">Transcript:The Boiling Rock, Part 2</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+											<svg class="wds-icon wds-icon-small category-page__member-left-icon"><use xlink:href="#wds-icons-pages-small"></use></svg>																				</div>
+		<a href="/wiki/Category:Book_One:_Water_transcripts" class="category-page__member-link" title="Category:Book One: Water transcripts">Category:Book One: Water transcripts</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+											<svg class="wds-icon wds-icon-small category-page__member-left-icon"><use xlink:href="#wds-icons-pages-small"></use></svg>																				</div>
+		<a href="/wiki/Category:Book_Two:_Earth_transcripts" class="category-page__member-link" title="Category:Book Two: Earth transcripts">Category:Book Two: Earth transcripts</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+											<svg class="wds-icon wds-icon-small category-page__member-left-icon"><use xlink:href="#wds-icons-pages-small"></use></svg>																				</div>
+		<a href="/wiki/Category:Book_Three:_Fire_transcripts" class="category-page__member-link" title="Category:Book Three: Fire transcripts">Category:Book Three: Fire transcripts</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Boy_in_the_Iceberg" class="category-page__member-link" title="Transcript:The Boy in the Iceberg">Transcript:The Boy in the Iceberg</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	C				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Cave_of_Two_Lovers" class="category-page__member-link" title="Transcript:The Cave of Two Lovers">Transcript:The Cave of Two Lovers</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Chase_(commentary)" class="category-page__member-link" title="Transcript:The Chase (commentary)">Transcript:The Chase (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Chase" class="category-page__member-link" title="Transcript:The Chase">Transcript:The Chase</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:City_of_Walls_and_Secrets" class="category-page__member-link" title="Transcript:City of Walls and Secrets">Transcript:City of Walls and Secrets</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:City_of_Walls_and_Secrets_(commentary)" class="category-page__member-link" title="Transcript:City of Walls and Secrets (commentary)">Transcript:City of Walls and Secrets (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Crossroads_of_Destiny_(commentary)" class="category-page__member-link" title="Transcript:The Crossroads of Destiny (commentary)">Transcript:The Crossroads of Destiny (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Crossroads_of_Destiny" class="category-page__member-link" title="Transcript:The Crossroads of Destiny">Transcript:The Crossroads of Destiny</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	D				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Day_of_Black_Sun,_Part_2:_The_Eclipse_(commentary)" class="category-page__member-link" title="Transcript:The Day of Black Sun, Part 2: The Eclipse (commentary)">Transcript:The Day of Black Sun, Part 2: The Eclipse (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Day_of_Black_Sun,_Part_1:_The_Invasion_(commentary)" class="category-page__member-link" title="Transcript:The Day of Black Sun, Part 1: The Invasion (commentary)">Transcript:The Day of Black Sun, Part 1: The Invasion (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Day_of_Black_Sun,_Part_1:_The_Invasion" class="category-page__member-link" title="Transcript:The Day of Black Sun, Part 1: The Invasion">Transcript:The Day of Black Sun, Part 1: The Invasion</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Day_of_Black_Sun,_Part_2:_The_Eclipse" class="category-page__member-link" title="Transcript:The Day of Black Sun, Part 2: The Eclipse">Transcript:The Day of Black Sun, Part 2: The Eclipse</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Desert" class="category-page__member-link" title="Transcript:The Desert">Transcript:The Desert</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Deserter" class="category-page__member-link" title="Transcript:The Deserter">Transcript:The Deserter</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Drill" class="category-page__member-link" title="Transcript:The Drill">Transcript:The Drill</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	E				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Earth_King_(commentary)" class="category-page__member-link" title="Transcript:The Earth King (commentary)">Transcript:The Earth King (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Earth_King" class="category-page__member-link" title="Transcript:The Earth King">Transcript:The Earth King</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Ember_Island_Players_(commentary)" class="category-page__member-link" title="Transcript:The Ember Island Players (commentary)">Transcript:The Ember Island Players (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Ember_Island_Players" class="category-page__member-link" title="Transcript:The Ember Island Players">Transcript:The Ember Island Players</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Escape_from_the_Spirit_World" class="category-page__member-link" title="Transcript:Escape from the Spirit World">Transcript:Escape from the Spirit World</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	F				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Firebending_Masters" class="category-page__member-link" title="Transcript:The Firebending Masters">Transcript:The Firebending Masters</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Fortuneteller" class="category-page__member-link" title="Transcript:The Fortuneteller">Transcript:The Fortuneteller</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	G				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Great_Divide" class="category-page__member-link" title="Transcript:The Great Divide">Transcript:The Great Divide</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Guru" class="category-page__member-link" title="Transcript:The Guru">Transcript:The Guru</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	H				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Headband" class="category-page__member-link" title="Transcript:The Headband">Transcript:The Headband</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	I				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Imprisoned" class="category-page__member-link" title="Transcript:Imprisoned">Transcript:Imprisoned</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	J				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Jet_(episode)" class="category-page__member-link" title="Transcript:Jet (episode)">Transcript:Jet (episode)</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	K				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_King_of_Omashu" class="category-page__member-link" title="Transcript:The King of Omashu">Transcript:The King of Omashu</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	L				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Lake_Laogai_(episode)" class="category-page__member-link" title="Transcript:Lake Laogai (episode)">Transcript:Lake Laogai (episode)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Lake_Laogai_(commentary)" class="category-page__member-link" title="Transcript:Lake Laogai (commentary)">Transcript:Lake Laogai (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Library" class="category-page__member-link" title="Transcript:The Library">Transcript:The Library</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	N				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Nightmares_and_Daydreams" class="category-page__member-link" title="Transcript:Nightmares and Daydreams">Transcript:Nightmares and Daydreams</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Northern_Air_Temple_(commentary)" class="category-page__member-link" title="Transcript:The Northern Air Temple (commentary)">Transcript:The Northern Air Temple (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Northern_Air_Temple" class="category-page__member-link" title="Transcript:The Northern Air Temple">Transcript:The Northern Air Temple</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	P				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Painted_Lady" class="category-page__member-link" title="Transcript:The Painted Lady">Transcript:The Painted Lady</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Puppetmaster" class="category-page__member-link" title="Transcript:The Puppetmaster">Transcript:The Puppetmaster</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	R				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Return_to_Omashu" class="category-page__member-link" title="Transcript:Return to Omashu">Transcript:Return to Omashu</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Runaway" class="category-page__member-link" title="Transcript:The Runaway">Transcript:The Runaway</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	S				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:School_Time_Shipping" class="category-page__member-link" title="Transcript:School Time Shipping">Transcript:School Time Shipping</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Serpent%27s_Pass_(commentary)" class="category-page__member-link" title="Transcript:The Serpent's Pass (commentary)">Transcript:The Serpent's Pass (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Serpent%27s_Pass" class="category-page__member-link" title="Transcript:The Serpent's Pass">Transcript:The Serpent's Pass</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Siege_of_the_North,_Part_1_(commentary)" class="category-page__member-link" title="Transcript:The Siege of the North, Part 1 (commentary)">Transcript:The Siege of the North, Part 1 (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Siege_of_the_North,_Part_2_(commentary)" class="category-page__member-link" title="Transcript:The Siege of the North, Part 2 (commentary)">Transcript:The Siege of the North, Part 2 (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Siege_of_the_North,_Part_1" class="category-page__member-link" title="Transcript:The Siege of the North, Part 1">Transcript:The Siege of the North, Part 1</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Siege_of_the_North,_Part_2" class="category-page__member-link" title="Transcript:The Siege of the North, Part 2">Transcript:The Siege of the North, Part 2</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sokka%27s_Master" class="category-page__member-link" title="Transcript:Sokka's Master">Transcript:Sokka's Master</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sokka%27s_Master_(commentary)" class="category-page__member-link" title="Transcript:Sokka's Master (commentary)">Transcript:Sokka's Master (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Southern_Air_Temple" class="category-page__member-link" title="Transcript:The Southern Air Temple">Transcript:The Southern Air Temple</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Southern_Raiders_(commentary)" class="category-page__member-link" title="Transcript:The Southern Raiders (commentary)">Transcript:The Southern Raiders (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Southern_Raiders" class="category-page__member-link" title="Transcript:The Southern Raiders">Transcript:The Southern Raiders</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_1:_The_Phoenix_King" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 1: The Phoenix King">Transcript:Sozin's Comet, Part 1: The Phoenix King</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_1:_The_Phoenix_King_(commentary)" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 1: The Phoenix King (commentary)">Transcript:Sozin's Comet, Part 1: The Phoenix King (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_2:_The_Old_Masters" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 2: The Old Masters">Transcript:Sozin's Comet, Part 2: The Old Masters</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_2:_The_Old_Masters_(commentary)" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 2: The Old Masters (commentary)">Transcript:Sozin's Comet, Part 2: The Old Masters (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_3:_Into_the_Inferno" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 3: Into the Inferno">Transcript:Sozin's Comet, Part 3: Into the Inferno</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_3:_Into_the_Inferno_(commentary)" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 3: Into the Inferno (commentary)">Transcript:Sozin's Comet, Part 3: Into the Inferno (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_4:_Avatar_Aang" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 4: Avatar Aang">Transcript:Sozin's Comet, Part 4: Avatar Aang</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Sozin%27s_Comet,_Part_4:_Avatar_Aang_(commentary)" class="category-page__member-link" title="Transcript:Sozin's Comet, Part 4: Avatar Aang (commentary)">Transcript:Sozin's Comet, Part 4: Avatar Aang (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Storm" class="category-page__member-link" title="Transcript:The Storm">Transcript:The Storm</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Swamp_Skiin%27_Throwdown" class="category-page__member-link" title="Transcript:Swamp Skiin' Throwdown">Transcript:Swamp Skiin' Throwdown</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Swamp" class="category-page__member-link" title="Transcript:The Swamp">Transcript:The Swamp</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	T				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Tales_of_Ba_Sing_Se" class="category-page__member-link" title="Transcript:The Tales of Ba Sing Se">Transcript:The Tales of Ba Sing Se</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	U				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Unaired_pilot" class="category-page__member-link" title="Transcript:Unaired pilot">Transcript:Unaired pilot</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Unaired_pilot_(commentary)" class="category-page__member-link" title="Transcript:Unaired pilot (commentary)">Transcript:Unaired pilot (commentary)</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	W				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Warriors_of_Kyoshi" class="category-page__member-link" title="Transcript:The Warriors of Kyoshi">Transcript:The Warriors of Kyoshi</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Waterbending_Master_(commentary)" class="category-page__member-link" title="Transcript:The Waterbending Master (commentary)">Transcript:The Waterbending Master (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Waterbending_Master" class="category-page__member-link" title="Transcript:The Waterbending Master">Transcript:The Waterbending Master</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Waterbending_Scroll" class="category-page__member-link" title="Transcript:The Waterbending Scroll">Transcript:The Waterbending Scroll</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Western_Air_Temple_(commentary)" class="category-page__member-link" title="Transcript:The Western Air Temple (commentary)">Transcript:The Western Air Temple (commentary)</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:The_Western_Air_Temple" class="category-page__member-link" title="Transcript:The Western Air Temple">Transcript:The Western Air Temple</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Winter_Solstice,_Part_1:_The_Spirit_World" class="category-page__member-link" title="Transcript:Winter Solstice, Part 1: The Spirit World">Transcript:Winter Solstice, Part 1: The Spirit World</a>					</li>
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Winter_Solstice,_Part_2:_Avatar_Roku" class="category-page__member-link" title="Transcript:Winter Solstice, Part 2: Avatar Roku">Transcript:Winter Solstice, Part 2: Avatar Roku</a>					</li>
+			</ul>
+</div>
+<div class="category-page__members-wrapper">
+			<div class="category-page__first-char">
+	Z				</div>
+		<ul class="category-page__members-for-char">
+										<li class="category-page__member">
+		<div class="category-page__member-left">
+																</div>
+		<a href="/wiki/Transcript:Zuko_Alone" class="category-page__member-link" title="Transcript:Zuko Alone">Transcript:Zuko Alone</a>					</li>
+			</ul>
+</div>
+</div>"
+
+
+The goal is to run the following code snipped on every sub page visited and compile 1 big json array of all the tables on the sub pages
+
+
+let tableData = [];
+    let userCounter = 1; // Counter for {{userX}}
+    let userMap = {}; // Maps speaker names to {{userX}}
+
+    // Iterate through table rows
+    jQuery(".wikitable tr").each(function () {
+        let firstTd = jQuery(this).find("td:first").text().trim(); // Check if the first <td> is empty
+        if (!firstTd) return; // Skip this row if the first <td> is empty
+
+        let speaker = jQuery(this).find("th").text().trim(); // Get speaker name
+        let dialogue = jQuery(this).find("td").text().replace(/\[.*?\]/g, '').trim(); // Get dialogue text
+
+        if (speaker || dialogue) {
+            if (!speaker) {
+                speaker = `{{user${userCounter}}}`;
+                userCounter++;
+            } else if (speaker !== "Iroh" && !userMap[speaker]) {
+                userMap[speaker] = `{{user${userCounter}}}`;
+                userCounter++;
+            }
+
+            // Map speaker to {{userX}} if it's not Iroh
+            let userKey = speaker === "Iroh" ? speaker : userMap[speaker];
+
+            // Add to the output
+            tableData.push({
+                user: userKey,
+                content: {
+                    text: dialogue
+                }
+            });
+        }
+    });
+
+    // Wrap into messageExamples
+    let messageExamples = [tableData];
+
+    // Output the result
+    console.log(JSON.stringify({ messageExamples }, null, 2));
